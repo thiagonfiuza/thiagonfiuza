@@ -6,7 +6,7 @@ E aeee. eu sou o Thiago Fiuza 👋
 
 - 📚 Estou estudando FullStack WEB, pois pretendo entrar de vez na area de desenvolvimento
 
-- 📫 Contate-me no email: thiagonfiuza@gmail.com ou no meu linkedin www.linkedin.com/in/thiago-fiuza-1161671ab/
+- 📫 Contate-me no email: thiagonfiuza@gmail.com, no meu instagram instagram.com/thiagonfiuza ou no meu linkedin www.linkedin.com/in/thiago-fiuza-1161671ab/
 
 - 🎨 Um outro portfólio que estou criando é no ArtStation, fique avonts pra conhecer meu trabalho: www.artstation.com/thiagonfiuza
 
