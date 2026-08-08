@@ -4,11 +4,11 @@ E aeee. eu sou o Thiago Fiuza 👋
 
 - 🛠 Atualmente trabalho ministrando aulas de cursos profissionalizantes, como Auxiliar Administrativo, Games e Designer (2D e 3D), TI com foco em Hardware, redes, eletrica e eletronica
 
-- 📚 Estou estudando FullStack WEB, pois pretendo entrar de vez na area de desenvolvimento
+- 📚 Estudando FullStack WEB
 
-- 📫 Contate-me no email: thiagonfiuza@gmail.com, no meu instagram www.instagram.com/thiagonfiuza ou no meu linkedin www.linkedin.com/in/thiago-fiuza-1161671ab/
+- 📫 Contate-me no email: thiagonfiuza@gmail.com, no meu instagram @thiagonfiuza ou no meu linkedin www.linkedin.com/in/thiago-fiuza-1161671ab/
 
-- 🎨 Um outro portfólio que estou criando é no ArtStation, fique avonts pra conhecer meu trabalho: www.artstation.com/thiagonfiuza
+- 🎨 Um outro portfólio que estou criando é no ArtStation, fique avontade pra conhecer meu trabalho: www.artstation.com/thiagonfiuza
 
 - 😄 Pronome: Ele/Dele
 
