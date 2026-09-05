@@ -35,7 +35,7 @@ E aeee. eu sou o Thiago Fiuza 👋
     <img align="center" height="30" width="40" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg">
     <img align="center" height="30" width="40" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
+        src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg](https://upload.wikimedia.org/wikipedia/commons/2/20/Photoshop_CC_icon.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original)">
     <img align="center" height="30" width="40" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
     <img align="center" height="30" width="40" 
