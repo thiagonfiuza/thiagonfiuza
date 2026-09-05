@@ -12,8 +12,6 @@ E aeee. eu sou o Thiago Fiuza 👋
 
 - 😄 Pronome: Ele/Dele
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagonfiuza)](https://github.com/thiagonfiuza/github-readme-stats)
-
 ##
 
 <div align="center">
